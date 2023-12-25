@@ -1,4 +1,4 @@
-host: http://localhost
-port: 8081
-username: dev
-password: dev@123
+host: http://prod
+port: 8082
+username: prod
+password: prod@123
