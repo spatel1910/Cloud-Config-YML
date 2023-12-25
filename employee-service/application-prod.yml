@@ -1,1 +1,4 @@
-msg: This is a prod property
+host: http://localhost
+port: 8081
+username: dev
+password: dev@123
